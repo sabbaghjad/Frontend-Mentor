@@ -1,0 +1,3 @@
+[submodule "qr-code-component-main"]
+	path = qr-code-component-main
+	url = https://github.com/sabbaghjad/qr-code-component-main.git
